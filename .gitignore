@@ -1,3 +1,17 @@
+# mac
+.DS_Store
+
+*.gch
+a.out
+
+# gcc
+*.gch
+a.out
+
+# ide
+.idea/
+*.dSYM/
+
 # Prerequisites
 *.d
 
